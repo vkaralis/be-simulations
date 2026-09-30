@@ -7,6 +7,7 @@ name = "besim-crossover"
 version = "0.1.0"
 description = "Monte Carlo bioequivalence simulations and power curves for 2x2, 2x3, 2x4 and 3x3 crossover designs"
 readme = "README.md"
+license = {file = "LICENSE"}
 authors = [{name = "Vangelis D. Karalis"}]
 keywords = ["Bioequivalence", "Simulations", "Monte Carlo", "Power Curves", "2x2", "2x3", "2x4", "3x3", "Crossover Designs"]
 requires-python = ">=3.10"

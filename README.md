@@ -115,6 +115,12 @@ BEsimALL/
 ├── .gitignore
 ├── pyproject.toml
 ├── requirements.txt
+├── LICENSE
 ├── README.md
 └── CHANGELOG.md
 ```
+
+## Άδεια χρήσης
+
+Το έργο διατίθεται με την [MIT License](LICENSE).
+Copyright (c) 2026 Vangelis D. Karalis.
